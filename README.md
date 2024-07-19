@@ -1,10 +1,20 @@
-# song-recommendation
-this project has been made using ai+ml
-This is a group project we got through CEPTA.
-Name of group members:
-ZAHRA HASAN
-ANNAPURNA
-SANJANA KUMARI
-ATIF JAVED
+# song-recommendationWelcome to the Song Recommendation System! This project uses Streamlit to create an interactive web application that recommends songs based on your favorite genre.
+
+## Features
+
+- Select your favorite genre to get personalized song recommendations.
+- Choose the number of recommendations you want to receive.
+- Rate the recommendations to provide feedback.
+- View the entire dataset used for recommendations.
+
+
+## Group members
+Zahra Hasan
+Sanjana Kumari
+Annapurna
+Atif javed
+
+
+
 
 
