@@ -8,11 +8,7 @@
 - View the entire dataset used for recommendations.
 
 
-## Group members
-Zahra Hasan
-Sanjana Kumari
-Annapurna
-Atif javed
+
 
 
 
